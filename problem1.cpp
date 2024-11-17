@@ -14,4 +14,5 @@ int main() {
         }
         cout<<sumrow<<endl;
     }
+    return 0;
 }
